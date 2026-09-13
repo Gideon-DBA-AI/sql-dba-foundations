@@ -5,3 +5,6 @@ Accepted liscence and uncheck azure for installation purposes
 Database engine and AI service was selected 
 Named instance assigned and user added as admin
 Server was successfully installed 
+
+FOR TOOL INSTALLATION 
+Downloaded tool, opened and downloaded all tools then installed 
